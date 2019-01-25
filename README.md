@@ -1,4 +1,4 @@
-# laihua
+# thismusic.cn
 
 > A Vue.js project
 
